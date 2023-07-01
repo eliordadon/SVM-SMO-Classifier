@@ -1,0 +1,5 @@
+# Ignore specific files
+mmn16ColabLink.docx
+
+# Ignore specific directories
+venv/
